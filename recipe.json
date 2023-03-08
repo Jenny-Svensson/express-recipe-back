@@ -1,0 +1,20 @@
+[
+  {
+    "recipeName": "Pasta med ketchup",
+    "description": "En snabb och härlig lunch!",
+    "ingredients": [
+      "Pasta",
+      "Ketchup"
+    ],
+    "prepTime": 30
+  },
+  {
+    "recipeName": "Kyckling med Curry",
+    "description": "Indisk fusion",
+    "ingredients": [
+      "Kyckling",
+      "Curry"
+    ],
+    "prepTime": 50
+  }
+]
